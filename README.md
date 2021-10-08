@@ -13,6 +13,7 @@ So me along with my instructor Colt Steele, made this simple, nice and interacti
 
   
 ## Demo
+![circleAnimation](https://user-images.githubusercontent.com/89511377/136509966-452c64f2-904a-4dd6-b1e9-7c5e3d811019.gif)
 
   
 # Hi, I'm theGDM! 👋
