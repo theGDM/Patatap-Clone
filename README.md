@@ -31,7 +31,7 @@ HTML, CSS, Javasript, Reactjs, Node.js ,Express.js, MongoDB, SQL, Google Cloud, 
   
 ## 🔗 Connect With ME!
 [![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=)](https://github.com/theGDM)
-[![GMAIL](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/gyandeepmehra370@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyandeepmehra370@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-cc0465?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gdmstore00)
 
   
